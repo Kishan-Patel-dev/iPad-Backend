@@ -22,7 +22,7 @@ You can try out the live demo of the iPad Math Calculator at the following link:
 ## Demo Video
 
 Check out the demo video showcasing the iPad Math Calculator functionality:
-![Demo GIF](Project_demo.gif)
+![Demo GIF](Project_demo_full.gif)
 
 
 ## Installation
