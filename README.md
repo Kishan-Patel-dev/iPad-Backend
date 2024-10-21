@@ -23,10 +23,6 @@ You can try out the live demo of the iPad Math Calculator at the following link:
 
 Check out the demo video showcasing the iPad Math Calculator functionality:
 
-<video width="640" height="360" controls>
-  <source src="https://www.apple.com/newsroom/videos/videos-2024/autoplay/2024/ipados-18-math-notes-graphing/large_2x.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
 ## Installation
 
